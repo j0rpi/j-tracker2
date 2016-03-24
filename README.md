@@ -16,6 +16,8 @@ begin once i'm satisfied with j-tracker1.
 - Comments on each torrent
 - PM system (send, recieve, read)
 - PGP encryption (optional)
+- Blog
+- Admin control panel
 - Easy installer
 
 # Included modules
