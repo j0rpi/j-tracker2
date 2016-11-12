@@ -7,6 +7,14 @@ Note: j-tracker2 in it's current state is completely un-usable. At the moment al
 done is a better folder structure, no code changes has been made. Development of j-tracker2 will
 begin once i'm satisfied with j-tracker1.
 
+# What will change compared to j-tracker1
+- Search engine will be enhanced alot
+- SQL code will be re-worked and much more secure
+- Folder structure - j-tracker1 is a mess
+- Make alot more modern looking, while still maintaining that TPB feeling
+- PGP is integrated, but will be used in j-tracker2
+- Report system
+
 
 # Features
 - Search engine
